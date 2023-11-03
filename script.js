@@ -3,7 +3,7 @@
 //   smooth: true
 // });
 
-// locomotive scrolltrigger both included
+// locomotive scrolltrigger both included using locomotive scrolltrigger cdn
 function locomotiveAnimations()
 {
   gsap.registerPlugin(ScrollTrigger);
